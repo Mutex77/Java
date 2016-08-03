@@ -1,0 +1,19 @@
+Total run time: 260.7 seconds
+Average travel time: 31.8
+Longest travel time: 101.6
+Shortest travel time: 1.41
+Average wait time: 6.2
+Longest wait time: 25.29
+Shortest wait time: 0.0
+Number of cars recorded: 551
+Average car speed: 17.4 pixels per second
+Fastest car speed: 100.0 pixels per second
+Slowest car speed: 10.0 pixels per second
+Average number of cars at a time: 76.3
+Most number of cars at a time: 80.0
+Least number of cars at a time: 20.0
+Average light interval: 3.0
+Shortest light interval: 3.0
+Longest light interval: 3.0
+Time on light scheme 1: 260.9 seconds
+Time on light scheme 2: 0.0 seconds
